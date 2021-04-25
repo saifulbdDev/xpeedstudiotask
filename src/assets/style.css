@@ -1,0 +1,19 @@
+.v-input__slot {
+  min-height: auto !important;
+  display: flex !important;
+  align-items: center !important;
+}
+.invalid .invalid-feedback {
+  display: block !important;
+}
+.work-row {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.work-row .work-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: -3px !important;
+}
